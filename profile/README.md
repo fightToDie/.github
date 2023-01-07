@@ -1,6 +1,6 @@
 ![1_dqbvAaJAiF3tsi2LO3s_Hw](https://user-images.githubusercontent.com/36617233/211151081-f0d32a2e-fb2a-426b-a3c0-907876525be6.jpeg)
 
-# Task
+# :punch: Task
 ---
 The goal of the challenge is to develop a system for the task of automatic playlist continuation. Given a set of playlist features, participants' systems shall generate a list of recommended tracks that can be added to that playlist, thereby "continuing" the playlist. We define the task formally as follows:
 
@@ -15,14 +15,14 @@ A list of 500 recommended candidate tracks, ordered by relevance in decreasing o
 Note that the system should also be able to cope with playlists for which no initial seed tracks are given! To assess the performance of a submission, the output track predictions are compared to the ground truth tracks ("reference set") from the original playlist.
 
 
-# Dataset
+# :paperclip: Dataset
 ---
 https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files
 
-# Prior Challenges & Publications
+# :page_facing_up: Prior Challenges & Publications
 ---
 https://www.recsyschallenge.com/2018/
 
-# Citation
+# :mag: Citation
 ---
 C.W. Chen, P. Lamere, M. Schedl, and H. Zamani. Recsys Challenge 2018: Automatic Music Playlist Continuation. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys ’18), 2018.
