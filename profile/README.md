@@ -1,4 +1,5 @@
-![1_dqbvAaJAiF3tsi2LO3s_Hw](https://user-images.githubusercontent.com/36617233/211151081-f0d32a2e-fb2a-426b-a3c0-907876525be6.jpeg)
+
+![image](https://user-images.githubusercontent.com/36617233/211151749-586c919e-b5d6-4ad0-bfac-f0962987aba1.png)
 
 # :punch: Task
 ---
@@ -19,8 +20,9 @@ Note that the system should also be able to cope with playlists for which no ini
 ---
 https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files
 
-# :page_facing_up: Prior Challenges & Publications
+# :page_facing_up: Challenge Specifications & Publications
 ---
+https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge
 https://www.recsyschallenge.com/2018/
 
 # :mag: Citation
