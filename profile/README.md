@@ -13,3 +13,16 @@ Output
 
 A list of 500 recommended candidate tracks, ordered by relevance in decreasing order.
 Note that the system should also be able to cope with playlists for which no initial seed tracks are given! To assess the performance of a submission, the output track predictions are compared to the ground truth tracks ("reference set") from the original playlist.
+
+
+# Dataset
+---
+https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files
+
+# Prior Challenges & Publications
+---
+https://www.recsyschallenge.com/2018/
+
+# Citation
+---
+C.W. Chen, P. Lamere, M. Schedl, and H. Zamani. Recsys Challenge 2018: Automatic Music Playlist Continuation. In Proceedings of the 12th ACM Conference on Recommender Systems (RecSys ’18), 2018.
