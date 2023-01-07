@@ -1,4 +1,3 @@
-![spotify-logo-1920x1080-2](https://user-images.githubusercontent.com/36617233/211151078-31fa42b8-fa77-41d4-8434-b1023d2bc5a2.jpg)
 ![1_dqbvAaJAiF3tsi2LO3s_Hw](https://user-images.githubusercontent.com/36617233/211151081-f0d32a2e-fb2a-426b-a3c0-907876525be6.jpeg)
 
 Task
