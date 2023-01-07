@@ -1,6 +1,7 @@
 ![1_dqbvAaJAiF3tsi2LO3s_Hw](https://user-images.githubusercontent.com/36617233/211151081-f0d32a2e-fb2a-426b-a3c0-907876525be6.jpeg)
 
 Task
+
 The goal of the challenge is to develop a system for the task of automatic playlist continuation. Given a set of playlist features, participants' systems shall generate a list of recommended tracks that can be added to that playlist, thereby "continuing" the playlist. We define the task formally as follows:
 
 Input
