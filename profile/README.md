@@ -4,7 +4,7 @@
 ---
 The goal of the challenge is to develop a system for the task of automatic playlist continuation. Given a set of playlist features, participants' systems shall generate a list of recommended tracks that can be added to that playlist, thereby "continuing" the playlist. We define the task formally as follows:
 
-# Input
+# :punch: Input
 ---
 A user-created playlist, represented by:
 Playlist metadata (see the dataset README)
