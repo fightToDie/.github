@@ -23,6 +23,7 @@ https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/da
 # :page_facing_up: Challenge Specifications & Publications
 ---
 https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge
+
 https://www.recsyschallenge.com/2018/
 
 # :mag: Citation
